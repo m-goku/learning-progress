@@ -1,0 +1,40 @@
+/*
+- INTRO
+    - Defining and using variables
+    - Constants
+    - Global variables
+    - Printing variables
+    - Control Flow, If Else
+    - For Loops and Range
+    - Getting User Input, Reading from standard input 
+    - Logging
+
+- BASIC GO TYPES
+    - Error TYPES
+    - Numeric data types
+    - String, Characters, Runes
+    - Converting between Int and Strings
+    - Strings package
+    - Times and Date*
+    - Arrays
+    - Slices => length, capacity, selecting part, deleting, convert to array, sorting
+    - Pointers
+    - Generating random numbers*
+
+- COMPOSITE DATA TYPES
+    - Maps
+    - Structures
+
+- GENERICS
+- Using generics
+- Constrains
+- Defining new data types
+- using generics in Structures
+- the Slices package
+- the maps package
+
+- REFLECTION AND INTERFACES
+- using reflection to get data types
+- type methods => creating and using them
+- Interfaces=> type assertion and type stwitches 
+*/

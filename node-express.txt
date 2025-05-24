@@ -1,5 +1,5 @@
 /*
--NODE BASICS
+- NODE BASICS
     - node module system
     - npm
     - path module
@@ -12,28 +12,31 @@
     - async await 
     - event-emitters
 
--EXPRESS 
+- EXPRESS 
     - express
     - express routes
     - express middlewares , custom middlewares
     - templating engine EJS
+    - CORS configuration*
+    - Rate limiting middlewares*
+    - API Versioning*
 
 - REST API DEVELOPMENT
     - REST API design - routes and endpoints
     - CRUD operations
-    -  Handling HTTP status codes
+    - Handling HTTP status codes
     - Request validation and error Handling
     - Organizing routes with express Router
     - Using JSON with data
 
 - MONGO DB
     - Mongodb, mongoose ORM, schema,models
-    - Aggregation
+    - Aggregation*
     - Populating
     - Data modeling
     - Relationships
 
--AUTHENTICATION & AUTHORIZATION
+- AUTHENTICATION & AUTHORIZATION
     - Authentication flow
     - Authorization
     - Password hashing
@@ -41,6 +44,7 @@
     - JWT
     - Protecting Routes with middlewares
     - Role Based Access
-    - 
+- REDIS
+
 
 */
