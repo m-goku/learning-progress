@@ -1,0 +1,46 @@
+/*
+-NODE BASICS
+    - node module system
+    - npm
+    - path module
+    - file system
+    - streams and buffers
+    - net module
+    - http module
+    - callbacks
+    - promises
+    - async await 
+    - event-emitters
+
+-EXPRESS 
+    - express
+    - express routes
+    - express middlewares , custom middlewares
+    - templating engine EJS
+
+- REST API DEVELOPMENT
+    - REST API design - routes and endpoints
+    - CRUD operations
+    -  Handling HTTP status codes
+    - Request validation and error Handling
+    - Organizing routes with express Router
+    - Using JSON with data
+
+- MONGO DB
+    - Mongodb, mongoose ORM, schema,models
+    - Aggregation
+    - Populating
+    - Data modeling
+    - Relationships
+
+-AUTHENTICATION & AUTHORIZATION
+    - Authentication flow
+    - Authorization
+    - Password hashing
+    - Session based Authentication
+    - JWT
+    - Protecting Routes with middlewares
+    - Role Based Access
+    - 
+
+*/
